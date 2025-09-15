@@ -5,11 +5,11 @@ A simple Java program that takes **N numbers** as input and performs various ope
 ## ✨ Features
 - Input **N numbers** into an array
 - Calculate:
-  - ✅ Sum of all numbers
-  - ✅ Average of numbers
-  - ✅ Minimum and Maximum value
-  - ✅ Count of Even numbers
-  - ✅ Count of Odd numbers
+  -  Sum of all numbers
+  -  Average of numbers
+  -  Minimum and Maximum value
+  -  Count of Even numbers
+  -  Count of Odd numbers
 - Print the array in **reverse order**
 
 ## 🛠️ How to Run
